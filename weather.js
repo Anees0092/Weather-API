@@ -1,5 +1,5 @@
 // let key=`Q886F2VS92XUEMNUR7GFJSECY`;
-let key='2b05d5d9531f2036ad8172841a94e935'
+let key="your secret key will be here from weather api"
 let data=document.getElementById("data");
 let container=document.getElementsByClassName("weather-container");
 
