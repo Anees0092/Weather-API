@@ -1,5 +1,5 @@
 // let key=`Q886F2VS92XUEMNUR7GFJSECY`;
-let key="your secret key will be here from weather api"
+let key="your secret key will be here from api.openweathermap"
 let data=document.getElementById("data");
 let container=document.getElementsByClassName("weather-container");
 
